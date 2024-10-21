@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to RhinoDigital.io  Wow, this is looks pretty neat..."
+title:  "Welcome to RhinoDigital.io  Wow, this looks pretty neat..."
 date:   2024-10-21 04:20:42 -0400
 categories: jekyll init, GH Page, TLS Cert, Ruby upgrade
 ---
