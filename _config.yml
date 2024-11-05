@@ -21,13 +21,7 @@
 title: The Rhino-Digital Interface
 email: justind@rhinodigital.io
 description: >- # this means to ignore newlines until "baseurl:"
-  I needed a reasonable domain to start building out a digital portfolio for SRE, DevOps, & Software, so 
-  I enjoyed breaingstorming with some AI LLMs about a humorous site name that could also be something in 
-  the tech space, with a technical name. "We" came up with "RhinoDigital.io" - gently and playfully 
-  suggesting: nose picking.
-
-
-  Please bear with "us" as "we" configure the site, logo, setup, certs, etc.  TY.
+  Please bear with me as I configure the site, logo, setup, certs, etc.  TY.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rhinodigital.io" # the base hostname http://example.com
 github_username:  jdrumheller
